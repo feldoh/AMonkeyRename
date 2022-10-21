@@ -11,11 +11,11 @@
   <WanderConfused.recoveryMessage>{0}'s mental apedown has come to an end.</WanderConfused.recoveryMessage>
   <WanderConfused.baseInspectLine>Mental state: Wandering around having a mental apedown</WanderConfused.baseInspectLine>
   
-  <WanderPsychotic.label>psychotic apeisode</WanderPsychotic.label>
-  <WanderPsychotic.beginLetterLabel>Psychotic Apeisode!</WanderPsychotic.beginLetterLabel>
-  <WanderPsychotic.beginLetter>{0} is wandering around having a psychotic apeisode.</WanderPsychotic.beginLetter>
-  <WanderPsychotic.recoveryMessage>{0}'s psychotic apeisode has come to an end.</WanderPsychotic.recoveryMessage>
-  <WanderPsychotic.baseInspectLine>Mental state: Wandering around having a psychotic apeisode.</WanderPsychotic.baseInspectLine>
+  <Wander_Psychotic.label>psychotic apeisode</Wander_Psychotic.label>
+  <Wander_Psychotic.beginLetterLabel>Psychotic Apeisode!</Wander_Psychotic.beginLetterLabel>
+  <Wander_Psychotic.beginLetter>{0} is wandering around having a psychotic apeisode.</Wander_Psychotic.beginLetter>
+  <Wander_Psychotic.recoveryMessage>{0}'s psychotic apeisode has come to an end.</Wander_Psychotic.recoveryMessage>
+  <Wander_Psychotic.baseInspectLine>Mental state: Wandering around having a psychotic apeisode.</Wander_Psychotic.baseInspectLine>
   
   <Tantrum.label>going ape</Tantrum.label>
   <Tantrum.beginLetterLabel>Going Ape!</Tantrum.beginLetterLabel>

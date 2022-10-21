@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+    <Mood.label>ape togetherness</Mood.label>
+    <Mood.description>Ape together strong! This represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental apedown. Depending on how low their togetherness is, someone who has a mental break may have a minor breaks like hiding in their room for a day, or a major break like going absolutely bananas.</Mood.description>
+    
+    <Food.label>bananas</Food.label>
+    <Food.description>Bananas are the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die.</Food.description>
+    
+    <Rest.label>zzz</Rest.label>
+    <Rest.description>Zs is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot.</Rest.description>
+    
+    <Joy.label>monkeying around</Joy.label>
+    <Joy.description>Monkeying around is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary.</Joy.description>
+    
+    <Beauty.label>beauty</Beauty.label>
+    <Beauty.description>Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like a statue of a banana improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it.</Beauty.description>
+    
+    <Comfort.label>comfort</Comfort.label>
+    <Comfort.description>Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, lounging in the treetops or other times.</Comfort.description>
+
+    <Outdoors.label>return to monke</Outdoors.label>
+    <Outdoors.description>return to monke expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially swinging through the treetops. It's not about the size of the rooms, but the need to return to monke from time to time. Lack of time in nature is a significant challenge for people who dwell in underground bases.</Outdoors.description>
+</LanguageData>

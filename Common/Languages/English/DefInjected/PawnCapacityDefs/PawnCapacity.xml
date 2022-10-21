@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+    <Consciousness.label>Neuron activation</Consciousness.label>
+    <Moving.label>Monkey move</Moving.label>
+    <Manipulation.label>Monkey do</Manipulation.label>
+    <Talking.label>Monkey say (ook)</Talking.label>
+    <Eating.label>Monkey eat (banana)</Eating.label>
+    <Sight.label>Monkey see</Sight.label>
+    <Hearing.label>Monkey hear</Hearing.label>
+    <Breathing.label>Monkey breathe</Breathing.label>
+    <BloodFiltration.label>Potassium processing</BloodFiltration.label>
+    <BloodPumping.label>Potasium saturation</BloodPumping.label>
+    <Metabolism.label>Potassium refining</Metabolism.label>
+</LanguageData>
