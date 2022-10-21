@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
+
 <LanguageData>
 
   <!-- Misc -->
@@ -8,7 +9,7 @@
   <!-- Generalized letter labels -->
   <LetterLabelRelationsChange_Ally>Ape together strong: {0}</LetterLabelRelationsChange_Ally>
   <LetterLabelRelationsChange_NeutralFromAlly>Ape divided weaker: {0}</LetterLabelRelationsChange_NeutralFromAlly>
-  
+
   <!-- Prison break -->
   <LetterPrisonBreak>Prisoners have staged a apeout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy.</LetterPrisonBreak>
 
@@ -21,8 +22,8 @@
 
   <!-- Refugee joins -->
   <LetterRefugeeJoins>A {PAWN_title} named {PAWN_nameDef} has arrived, they were heard shouting APE TOGETHER STRONG!.</LetterRefugeeJoins>
-  
+
   <!-- Rescuee joins -->
   <LetterRescueeJoins>{PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} agrees that ape together strong, and is joining your colony.</LetterRescueeJoins>
-  
+
 </LanguageData>
