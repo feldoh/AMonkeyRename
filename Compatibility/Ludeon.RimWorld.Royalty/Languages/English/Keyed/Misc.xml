@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+  <LetterTextLinkingRitualCompletedAnimaGrass>Additionally, {0} bananima grass has been restored.</LetterTextLinkingRitualCompletedAnimaGrass>
+
+  <RitualTargetAnimaTreeNoPawnsToLink>No colonists that can link with bananima tree right now.</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>Need at least {0} bananima grass.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <RitualTargetAnimaTreeInfo>an bananima tree</RitualTargetAnimaTreeInfo>
+
+  <AnimaLinkingExplanationBase>The bananima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more bananima grass will grow.\n\nWith {0} additional participants, {1} bananima grass will be restored at the end of the ceremony.</AnimaLinkingExplanationBase>
+</LanguageData>
