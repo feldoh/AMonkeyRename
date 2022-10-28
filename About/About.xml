@@ -12,6 +12,9 @@
 	</description>
 	<modDependencies>
 	</modDependencies>
+  <loadBefore>
+    <li>kd8lvt.ReturnToMonke</li>
+  </loadBefore>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
 		<li>Ludeon.RimWorld.Ideology</li>
