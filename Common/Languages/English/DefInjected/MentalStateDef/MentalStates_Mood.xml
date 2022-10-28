@@ -26,4 +26,11 @@
 
   <TargetedTantrum.beginLetter>{0} is going ape.\n\n[PAWN_pronoun] is going to destroy {1}.</TargetedTantrum.beginLetter>
   <BedroomTantrum.beginLetter>{0} going ape.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room.</BedroomTantrum.beginLetter>
+  
+  <GiveUpExit.label>gibbon up and leafing</GiveUpExit.label>
+  <GiveUpExit.beginLetterLabel>gibbon up</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.beginLetter>{0} has gibbon up on this community.\n\n[PAWN_pronoun] eats shoots and leaves. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day.</GiveUpExit.beginLetter>
+  <GiveUpExit.baseInspectLine>Mental state: Gibbon up and leaving</GiveUpExit.baseInspectLine>
+  <GiveUpExit.recoveryMessage>{0} decided that having gibbon up so easily was shameful. They return with their resolve hardened shouting ape together strong!</GiveUpExit.recoveryMessage>
+  
 </LanguageData>

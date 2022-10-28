@@ -26,4 +26,7 @@
   <!-- Rescuee joins -->
   <LetterRescueeJoins>{PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} agrees that ape together strong, and is joining your colony.</LetterRescueeJoins>
 
+  <!-- Run wild mental break, note that we assume the Return to Monke mod should take precedence if present so it is marked to be loaded before. -->
+  <LetterRunWildMentalBreak>{0} has gibbon up on civilization and is returning to monke.\n\n{PAWN_pronoun} realized that monke should never be contained and that ape together strong is nothing but pretty words. So, {PAWN_pronoun} has decided to leave your faction and return to monke, enjoying the bare necessities of life, truly free in the wilds.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back or perhaps it would be better to follow their lead and return to monke as well.</LetterRunWildMentalBreak>
+
 </LanguageData>
