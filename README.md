@@ -16,3 +16,6 @@ This mod was made for the MrSamuelStreamer [Monkeys VS Zombies](https://www.yout
 Inspiration and many rename ideas provided by MrSamuelStreamer
 Gibbon Up inspired by tyukan2000
 Gone Bananas inspired by Benny
+
+## Continuity
+See [CONTINUITY.md](CONTINUITY.md) for details on continuity and succession of this project in the event of my death or long-term absence.
